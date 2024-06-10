@@ -1,5 +1,5 @@
 # Covid-19-detection-from-Xray-Images
-Covid 19 detection from Xray Images using CNN Algororithm
+Covid 19 detection from Xray Images using CNN Algororithm 
 
 # Loading Dataset
 ![image](https://github.com/HarshAmin01/Covid-19-detection-from-Xray-Images/assets/101825662/dc7cc9d3-8d0d-400a-9fd6-52dddf1de90b)
